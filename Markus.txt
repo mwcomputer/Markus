@@ -6,6 +6,4 @@ Rot
 Grün
 Blau
 Gelb
-Hellblau
-Hellgrün
 Sind alles tolle Farben
